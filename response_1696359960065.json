@@ -1,0 +1,54 @@
+{
+  "id": 4215,
+  "name": "Fabio Val",
+  "account": {
+    "id": 4466,
+    "number": "98054-3",
+    "agency": "9997",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 4078,
+    "number": "**** **** **** 4512",
+    "limit": 1000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 8173,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista e garanta seu futuro financeiro!"
+    },
+    {
+      "id": 8174,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista no seu futuro e conquiste a prosperidade! 🚀"
+    },
+    {
+      "id": 8175,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista seu dinheiro e garanta um futuro próspero!"
+    },
+    {
+      "id": 8176,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista agora e aproveite um futuro financeiramente seguro! #invista #segurança"
+    },
+    {
+      "id": 8177,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Investir é o caminho para realizar seus sonhos. Conte com nosso apoio para criar um futuro financeiro sólido. #invistaagora"
+    },
+    {
+      "id": 8178,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista no seu futuro financeiro! #PlanejeSeuSucesso"
+    },
+    {
+      "id": 8179,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista no futuro, garanta prosperidade!"
+    }
+  ]
+}

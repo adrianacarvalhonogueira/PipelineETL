@@ -1,0 +1,39 @@
+{
+  "id": 4217,
+  "name": "Luis Palmeira",
+  "account": {
+    "id": 4468,
+    "number": "98056-3",
+    "agency": "9997",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 4080,
+    "number": "**** **** **** 9916",
+    "limit": 1000
+  },
+  "features": [],
+  "news": [
+    {
+      "id": 8184,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista hoje e colha os frutos amanhã! 💰"
+    },
+    {
+      "id": 8185,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista seu futuro. Seja financeiramente independente."
+    },
+    {
+      "id": 8186,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista no seu futuro e garanta sua estabilidade financeira."
+    },
+    {
+      "id": 8187,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista hoje, colha amanhã! 💰"
+    }
+  ]
+}
